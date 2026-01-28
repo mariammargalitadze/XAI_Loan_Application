@@ -7,3 +7,4 @@ matplotlib
 dice-ml
 google-genai
 openai
+seaborn
