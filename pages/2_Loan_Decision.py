@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from sklearn.neighbors import NearestNeighbors
 from sklearn.decomposition import PCA
 import dice_ml
-from openai import OpenAI
+#from openai import OpenAI
 from google import genai
 from google.genai import types
 
