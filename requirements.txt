@@ -2,7 +2,8 @@ streamlit
 pandas
 numpy
 scikit-learn
-matplotlib
 shap
+matplotlib
 dice-ml
 google-genai
+openai
